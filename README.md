@@ -680,7 +680,7 @@ The project focuses on applying fundamental NLP and machine-learning concepts to
 
 # 👤 Author
 
-## **Saswati Mathan**
+## **Saswati Anupama Mathan**
 
 🎓 **M.Tech — Electronics & Communication Engineering**
 
